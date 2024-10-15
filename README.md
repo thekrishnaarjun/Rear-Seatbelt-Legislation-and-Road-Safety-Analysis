@@ -71,3 +71,4 @@ Bar charts comparing seatbelt fines and penalties across selected countries.
 Line charts showing trends in road safety statistics (fatalities and injuries) before and after the legislation.
 Recommendations
 Based on the analysis, countries that do not currently have mandatory rear seatbelt laws should adopt similar legislation. Countries with existing laws could enhance enforcement by increasing fines or introducing camera-based monitoring systems. Public awareness campaigns also play a crucial role in improving compliance and should be part of the legislative rollout.
+
