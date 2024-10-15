@@ -1,0 +1,16 @@
+Country,Year Legislation Enacted,Fine (Front Seatbelt),Fine (Rear Seatbelt),Non-Monetary Penalties,Technology Used for Enforcement,Compliance Checks Frequency,"Mortality Rate (per 100,000)","Injury Rate (per 100,000)",Change in Mortality Rate (%),Change in Injury Rate (%),Other Effects/Notes
+Spain,2010,€200,€100,Points on license,"Patrols, cameras",Regular,"6.8 (2010) 
+ 5.2 (2023)","180 (2010) 
+ 130 (2023)",-23.53%,-27.78%,Increased public awareness and education campaigns.
+France,2012,€135,€90,Points on license,"Cameras, patrols",High,"5.6 (2012) 
+ 4.2 (2023)","140 (2012) 
+ 110 (2023)",-25.00%,-21.43%,Effective public campaigns improved compliance.
+Portugal,2013,€120,€70,Points on license,"Random checks, cameras",Medium,"7.0 (2013) 
+ 5.5 (2023)","190 (2013) 
+ 160 (2023)",-21.43%,-15.79%,Enhanced enforcement measures and awareness.
+Germany,2010,€100,€50,Points on license,"Random checks, speed cameras",Regular,"6.9 (2010) 
+ 5.6 (2023)","160 (2010) 
+ 140 (2023)",-19.13%,-12.50%,Increased seatbelt usage observed.
+Netherlands,2006,€150,€75,Points on license,"Surveillance cameras, patrols",High,"4.0 (2006) 
+ 3.5 (2023)","90 (2006) 
+ 75 (2023)",-12.50%,-16.67%,Continuous monitoring and high compliance.
